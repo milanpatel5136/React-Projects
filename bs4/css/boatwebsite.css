@@ -1,0 +1,27 @@
+.first {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.milan {
+    background-color: red;
+    color: white ;
+}
+.card {
+    box-shadow: 3px 4px 2px 2px rgb(133, 133, 167);
+    margin: 5px;
+}
+.card:hover {
+    transform:scale(0.9);
+    transition: 1.2s;
+    box-shadow: 3px 3px 2px 2px  rgb(16, 68, 61);
+    
+}
+
+.rajan a{
+   text-decoration: none;
+   color: white;
+   padding: 0px 40px;
+}
+.rajan a:hover {
+    color: red;
+}
